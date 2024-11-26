@@ -97,7 +97,7 @@ const gameData = {
     ],
   },
   begin: {
-    text: "coming soon",
+    text: "glasswing will contact you soon. keep an eye out for the signs.",
     options: [],
   },
 };
