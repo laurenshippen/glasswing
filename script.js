@@ -97,8 +97,7 @@ const gameData = {
     ],
   },
   begin: {
-    text: "",
-    image: "https://t4.ftcdn.net/jpg/06/03/93/13/360_F_603931315_TTrj7WQqDUFaqfUua9jQw4ypp7195Tpx.jpg",
+    text: "coming soon",
     options: [],
   },
 };
